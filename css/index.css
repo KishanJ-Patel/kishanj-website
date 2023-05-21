@@ -2,7 +2,7 @@
 .intro-block {
     background-color: #161616;
     padding: 0px !important;
-    margin-top: 8rem !important;
+    margin-top: 6% !important;
     filter: drop-shadow(0px 3px 2px #AF32FF);
 }
 
@@ -41,6 +41,13 @@
     border-bottom-left-radius: 0px !important;
 }
 
+.intro-round-image {
+    width: 20rem;
+    height: 100%;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
 /* Connect block */
 .connect-block {
     padding: 0px !important;
@@ -67,8 +74,8 @@
     display: none;
 }
 
-.link-block:hover .email-hover-icon { 
-    display: block!important;
+.link-block:hover .email-hover-icon {
+    display: block !important;
 }
 
 .link-block:hover .call-icon {
