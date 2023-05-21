@@ -19,27 +19,26 @@
     padding-bottom: 0px;
 }
 
+    .logo-text:hover {
+        color: #FDF300;
+        text-shadow: 0px 8px 5px rgba(175, 50, 255, 1);
+    }
+
 .navbar-toggler-bg {
     background-color: #D3D3D3;
 }
 
 .nav-item a {
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 25px;
     color: #fff;
-    padding-left: 25px!important;
-    padding-right: 0px!important;
+    padding-left: 25px !important;
+    padding-right: 0px !important;
     padding-bottom: 0px;
 }
 
     .nav-item a:hover {
         color: #AF32FF;
     }
-
-.intro-block {
-    width: 1193px;
-    height: 488px;
-    background-color: #161616;
-}
