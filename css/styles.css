@@ -28,17 +28,41 @@
     background-color: #D3D3D3;
 }
 
-.nav-item a {
+.nav-item > a {
     font-family: 'Josefin Sans', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 25px;
-    color: #fff;
+    color: #fff!important;
     padding-left: 25px !important;
     padding-right: 0px !important;
     padding-bottom: 0px;
 }
 
-    .nav-item a:hover {
-        color: #AF32FF;
+    .nav-item > a:hover {
+        color: #AF32FF!important;
     }
+
+    .nav-item > a:focus {
+        color: #AF32FF!important;
+    }
+
+.nav-dropdown {
+    background-color: #161616;
+}
+
+.nav-dropdown-item {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #fff !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-bottom: 0px;
+}
+
+.nav-dropdown-item:hover {
+    background-color: transparent!important;
+    color: #AF32FF!important;
+}
