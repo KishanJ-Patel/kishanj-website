@@ -118,6 +118,41 @@
     width: 80px;
 }
 
+.techskill-category {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: #AF32FF;
+}
+
+.techskill-name {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    color: #fff;
+    width: 9rem;
+}
+
+.skill-progress {
+    width: 30rem;
+    height: 10px;
+}
+
+.skill-progress-bar {
+    background-color: #AF32FF;
+}
+
+.skill-progress-percent {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #fff;
+    width: 3rem;
+}
+
 .job-title {
     font-family: 'Outfit', sans-serif;
     font-style: normal;
@@ -172,37 +207,7 @@
     font-size: 1.5rem;
 }
 
-.techskill-category {
-    font-family: 'Outfit', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 2.5rem;
+.job-respon span {
     color: #AF32FF;
 }
 
-.techskill-name {
-    font-family: 'Josefin Sans', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 2rem;
-    color: #fff;
-    width: 9rem;
-}
-
-.skill-progress {
-    width: 30rem;
-    height: 10px;
-}
-
-.skill-progress-bar {
-    background-color: #AF32FF;
-}
-
-.skill-progress-percent {
-    font-family: 'Josefin Sans', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.5rem;
-    color: #fff;
-    width: 3rem;
-}
