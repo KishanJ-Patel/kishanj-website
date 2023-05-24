@@ -1,0 +1,35 @@
+﻿.dandyai-block {
+    margin-top: 2% !important;
+}
+
+.dandyai-title {
+    font-family: 'Righteous', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4rem;
+    color: #fff;
+    border-color: #AF32FF !important;
+}
+
+.dandyai-video-block {
+    margin-top: 6% !important;
+}
+
+.dandyai-description-block {
+    margin-top: 6% !important;
+}
+
+.dandyai-description {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.dandyai-img-list {
+    margin-top: 6% !important;
+}
+
+.dandyai-img-list img {
+    width: 620px;
+}
