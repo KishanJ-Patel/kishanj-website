@@ -64,6 +64,7 @@
     font-weight: 400;
     font-size: 25px;
     color: #fff;
+    transition: color 0.7s ease-in-out;
 }
 
 .link-block:hover .link-text {
@@ -92,6 +93,10 @@
 
 .link-block:hover .resume-hover-icon {
     display: block !important;
+}
+
+.profile-icon {
+    transition: filter 0.7s ease-in-out;
 }
 
 .link-block:hover .profile-icon {
