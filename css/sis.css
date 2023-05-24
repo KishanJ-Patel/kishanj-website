@@ -1,0 +1,35 @@
+﻿.sis-block {
+    margin-top: 2% !important;
+}
+
+.sis-title {
+    font-family: 'Righteous', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4rem;
+    color: #fff;
+    border-color: #AF32FF !important;
+}
+
+.sis-video-block {
+    margin-top: 6% !important;
+}
+
+.sis-description-block {
+    margin-top: 6% !important;
+}
+
+.sis-description {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.sis-img-list {
+    margin-top: 6% !important;
+}
+
+.sis-img-list img {
+    width: 620px;
+}
