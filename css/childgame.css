@@ -1,0 +1,35 @@
+﻿.childgame-block {
+    margin-top: 2% !important;
+}
+
+.childgame-title {
+    font-family: 'Righteous', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4rem;
+    color: #fff;
+    border-color: #AF32FF !important;
+}
+
+.childgame-video-block {
+    margin-top: 6% !important;
+}
+
+.childgame-description-block {
+    margin-top: 6% !important;
+}
+
+.childgame-description {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.childgame-img-list {
+    margin-top: 6% !important;
+}
+
+.childgame-img-list img {
+    width: 620px;
+}
