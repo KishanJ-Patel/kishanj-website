@@ -15,8 +15,25 @@
     margin-top: 6% !important;
 }
 
+.childgame-download-link-block {
+    margin-top: 4% !important;
+}
+
+    .childgame-download-link-block > a {
+        font-family: 'Outfit', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.5rem;
+        color: #AF32FF !important;
+        transition: color 0.7s ease-in-out;
+    }
+
+        .childgame-download-link-block > a:hover {
+            color: #FDF300 !important;
+        }
+
 .childgame-description-block {
-    margin-top: 6% !important;
+    margin-top: 3% !important;
 }
 
 .childgame-description {
@@ -30,6 +47,6 @@
     margin-top: 6% !important;
 }
 
-.childgame-img-list img {
-    width: 620px;
-}
+    .childgame-img-list img {
+        width: 620px;
+    }
