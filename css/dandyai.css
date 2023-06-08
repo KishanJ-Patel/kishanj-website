@@ -15,6 +15,28 @@
     margin-top: 6% !important;
 }
 
+.dandyai-web-link-block {
+    margin-top: 4% !important;
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+    .dandyai-web-link-block > a {
+        font-family: 'Outfit', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.5rem;
+        color: #AF32FF !important;
+        transition: color 0.7s ease-in-out;
+    }
+
+        .dandyai-web-link-block > a:hover {
+            color: #FDF300 !important;
+        }
+
 .dandyai-description-block {
     margin-top: 6% !important;
 }
@@ -30,6 +52,6 @@
     margin-top: 6% !important;
 }
 
-.dandyai-img-list img {
-    width: 620px;
-}
+    .dandyai-img-list img {
+        width: 620px;
+    }
